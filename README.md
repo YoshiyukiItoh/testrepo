@@ -1,2 +1,2 @@
 # testrepo
-testrepo
+テスト用のレポジトリです。
